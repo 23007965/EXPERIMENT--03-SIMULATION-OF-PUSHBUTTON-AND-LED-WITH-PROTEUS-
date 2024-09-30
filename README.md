@@ -195,9 +195,11 @@ void assert_failed(uint8_t *file, uint32_t line)
 ```
 
 ## Output screen shots of proteus  :
+
+### Output state of
 ![image](https://github.com/user-attachments/assets/eae69ee8-c1a6-4dd5-9a7d-ef3aa8027857)
 
-
+### Output state on
 ![image](https://github.com/user-attachments/assets/d0b06fc5-80f8-481d-869c-3d9e97fec5cb)
 
 
